@@ -7,7 +7,7 @@
 ## 云书架
 #### 书籍阅读记录保存到云书架，更换设备完美衔接。
 ## 书源丰富
-#### 书源丰富支持男生小说女生小说，天下书阁小说库量包括:起点中文网、纵横中文网、17k小说网、百度小说网、掌阅中文网、书旗小说网、逐浪小说、和阅小说等天朝大型网络小说网站的所有小说，是目前小说最全的小说阅读器，除此之外我们还提供小说不同源大大提高小说库存量。
+#### 书源丰富支持男生小说女生小说，天下书阁小说库量包括:起点中文网、纵横中文网、17k小说网、百度小说网、掌阅中文网、书旗小说网、逐浪小说、和阅小说等天朝大型网络小说网站的所有小说，是目前小说最全的小说阅读器，除此之外我们还提供小说换源功能大大提高小说库存量。
 
 ## 截图
 <img src="https://github.com/SemperChen/tianxiashuge/blob/master/image/31.jpg?raw=true" width="280"/> <img src="https://github.com/SemperChen/tianxiashuge/blob/master/image/32.jpg?raw=true"  width="280"/> <img src="https://github.com/SemperChen/tianxiashuge/blob/master/image/33.jpg?raw=true"  width="280"/> 

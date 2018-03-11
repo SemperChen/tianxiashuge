@@ -5,6 +5,7 @@
 ## 离线阅读
 #### 缓存书籍后在完全无网络状态下也能阅读，让你省流量更省心。
 <img src="https://github.com/SemperChen/tianxiashuge/blob/master/image/31.jpg?raw=true" width="280"/>
+<img src="https://github.com/SemperChen/tianxiashuge/blob/master/image/32.jpg?raw=true"  width="280"/> <img src="https://github.com/SemperChen/tianxiashuge/blob/master/image/33.jpg?raw=true"  width="280"/>
 ## 云书架
 #### 书籍阅读记录保存到云书架，更换设备完美衔接。
 <img src="https://github.com/SemperChen/tianxiashuge/blob/master/image/34.jpg?raw=true"  width="280"/><img src="https://github.com/SemperChen/tianxiashuge/blob/master/image/35.jpg?raw=true"  width="280"/>

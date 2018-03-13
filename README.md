@@ -7,10 +7,10 @@
 <img src="https://github.com/SemperChen/tianxiashuge/blob/master/image/31.jpg?raw=true" width="280"/><img src="https://github.com/SemperChen/tianxiashuge/blob/master/image/32.jpg?raw=true"  width="280"/><img src="https://github.com/SemperChen/tianxiashuge/blob/master/image/33.jpg?raw=true"  width="280"/>
 ## 云书架
 #### 书籍阅读记录保存到云书架，更换设备完美衔接。
-<img src="https://github.com/SemperChen/tianxiashuge/blob/master/image/34.jpg?raw=true"  width="280"/><img src="https://github.com/SemperChen/tianxiashuge/blob/master/image/35.jpg?raw=true"  width="280"/>
+<img src="https://github.com/SemperChen/tianxiashuge/blob/master/image/34.jpg?raw=true"  width="280"/><img src="https://github.com/SemperChen/tianxiashuge/blob/master/image/35.jpg?raw=true"  width="280"/><img src="https://github.com/SemperChen/tianxiashuge/blob/master/image/4.jpg?raw=true"  width="280"/>
 ## 排行榜
 #### 收集各大小说门户月票排行榜，寻找好书更方便。
-<img src="https://github.com/SemperChen/tianxiashuge/blob/master/image/7.jpg?raw=true"  width="280"/><img src="https://github.com/SemperChen/tianxiashuge/blob/master/image/8.jpg?raw=true"  width="280"/>
+<img src="https://github.com/SemperChen/tianxiashuge/blob/master/image/7.jpg?raw=true"  width="280"/><img src="https://github.com/SemperChen/tianxiashuge/blob/master/image/8.jpg?raw=true"  width="280"/><img src="https://github.com/SemperChen/tianxiashuge/blob/master/image/37.jpg?raw=true"  width="280"/>
 ## 书源丰富 支持换源
 #### 书源丰富支持男生小说女生小说，天下书阁小说库量包括:起点中文网、纵横中文网、17k小说网、百度小说网、掌阅中文网、书旗小说网、逐浪小说、和阅小说等天朝大型网络小说网站的所有小说，是目前小说最全的小说阅读器，除此之外我们还提供小说换源功能大大提高小说库存量。
  <img src="https://github.com/SemperChen/tianxiashuge/blob/master/image/25.jpg?raw=true"  width="280"/> <img src="https://github.com/SemperChen/tianxiashuge/blob/master/image/26.jpg?raw=true"  width="280"/>

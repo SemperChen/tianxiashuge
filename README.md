@@ -1,4 +1,6 @@
 # 天下书阁
+## 开源地址
+[https://github.com/SemperChen/NovelAPP](https://github.com/SemperChen/NovelAPP)
 ## 新增功能
 还在担心流量不够用吗，本阅读器缓存(下载)离线阅读帮你轻松解决问题。通过wifi缓存(下载)全本书后，在无网络的时候从书架进入阅读，点击离线模式即可。如图
 #### 下载应用：[天下书阁.apk](https://raw.githubusercontent.com/SemperChen/tianxiashuge/master/天下书阁.apk)

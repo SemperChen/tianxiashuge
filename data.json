@@ -1,0 +1,11 @@
+{
+  "baiduVoiceTok":"",
+  "bookSources":[
+    {
+      "siteName": "小说源一",
+      "searchRule":"subText:class=\"result-list\"&$subText0ToNode:class=\"search-result-page\"&$splitByNode:class=\"result-game-item-pic\"&$arrayShift:&*getPropertyList&#title:$subText:title=\"&$subText0ToNode:\"&#img:$subText:<img src=\"&$subText0ToNode:\"&#url:$subText:cpos=\"title\" href=\"&$subText0ToNode:\"&#desc:$subText:result-game-item-desc\">&$subText0ToNode:</p>&#author:$subText:result-game-item-info-tag&$subText:<span>&$subText0ToNode:</span>&$trim:&#time:$subText:preBold\">&$subText:preBold\">&$subText:preBold\">&$subText:title\">&$subText0ToNode:</span>&#chapterName:$subText:cpos=\"newchapter\"&$subTextStartToEnd:>,<",
+      "catalogRule": "subTextStartToEnd:<dl>,</dl>&$splitByNode:<dd>&$arrayShift:&*getPropertyList&#title:$subText:href=\"&$subText0ToNode:\"&#link:$subText:href=\"&$subTextStartToEnd:\">,</a>",
+      "contentRule": "splitByNode:<title>&$arrayShift:&*getPropertyList&#title:$subTextStartToEnd:<h1>,</h1>&#content:$subText:id=\"content\">&$subText0ToNode:bottem2&$trim:&$subText0ToNode:</div>&$splitByNode:<br /><br />&nbsp;&nbsp;&nbsp;&nbsp;&$compactAndJoin:&$rmFirstUselessTag:&nbsp;&nbsp;&nbsp;&nbsp;"
+    }
+  ]
+}
